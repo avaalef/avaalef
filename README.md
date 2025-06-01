@@ -1,4 +1,6 @@
-<img src="ASSETS/github.svg" alt="github" height="61px">
+<div align="center">
+  <img src="ASSETS/github.svg" alt="github" height="61px">
+</div>
 
 <div align="center">
 
