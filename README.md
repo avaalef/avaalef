@@ -1,6 +1,6 @@
 <div align="center">
 
-  # welcome to my profile!! 👋👋
+ <span style="border-bottom: 1px solid #3d444db3;">welcome to my profile!! 👋</span>
   
   <img src="ASSETS/github.svg" alt="github" height="41px">
 </div>
