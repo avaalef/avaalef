@@ -1,8 +1,9 @@
+<img src="ASSETS/github.svg" alt="github" height="61px">
+
 <div align="center">
 
- <span style="border-bottom: 1px solid #3d444db3;">welcome to my profile!! 👋</span>
+  # welcome to my profile!! 👋
   
-  <img src="ASSETS/github.svg" alt="github" height="41px">
 </div>
 
 
