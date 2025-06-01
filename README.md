@@ -4,4 +4,4 @@
 ## projects:
 - pikiscript
 
-##  [![Typewriter](ASSETS/typewriter.png)]
+##  [![Typewriter](ASSETS/typewriter.gif)]
