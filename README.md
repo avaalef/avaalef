@@ -37,3 +37,11 @@
 
 <img src="ASSETS/github.svg" alt="Github" height="61"> 
 (you are here)
+
+# other stuff
+
+<details>
+  <summary>where to contact</summary>
+  <a href="mailto:danypamby@gmail.com"><img src="ASSETS/gmail.png" alt="gmail logo"></a>
+  danypamby@gmail.com
+</details>
