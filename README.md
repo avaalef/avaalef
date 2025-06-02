@@ -42,6 +42,6 @@
 
 <details>
   <summary>where to contact</summary>
-  <a href="mailto:danypamby@gmail.com"><img src="ASSETS/gmail.png" alt="gmail logo"></a>
+  <a href="mailto:danypamby@gmail.com"><img src="ASSETS/Gmail.png" alt="gmail logo"></a>
   danypamby@gmail.com
 </details>
