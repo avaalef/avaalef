@@ -58,7 +58,7 @@
 - python
 - css
 - js
-- 
+- c/c++ (pretty rare)
 
 <div align="center">
  
