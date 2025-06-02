@@ -65,9 +65,14 @@
 <details>
   <summary>about</summary>
   silly guy that loves coding lmaoooo, if im not coding im playing (prob roblox ig).
+  <br>
   im stupid as fuck and LOVE pizza, its my favorite food
+  <br>
   i rarely take pictures outside but when i am i sometimes take pics when im bored, im also interested on retro tech (eg windows 95, frontpage 2003) and lost media too.
+  <br>
   i spend lots of time on my computer lol, im a minor + male btw.
+  <br>
   ive always dreamt of having a space on the 'net, thats why i love coding so much (my most used language is html iirc), i also love python becuase its pretty simple.
+  <br>
   i have "runningman" as a name since i like him and his design is pretty cool + i didnt know what to put as a new name because "someonetdh" sucked
 </details>
