@@ -98,3 +98,5 @@
 </div>
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge">
+
+<img src="https://camo.githubusercontent.com/05f18c177f0bed2ecf1cccad12298d1e374525fe087551c26321b8ddc5649a56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6879706572253230636f6465722532306f72253230736d74682d2532333135326634663f7374796c653d666f722d7468652d6261646765" alt="Hyper coder">
