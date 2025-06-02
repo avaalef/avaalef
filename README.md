@@ -51,6 +51,18 @@
 
 <div align="center">
  
+  # programming languages i use
+
+</div>
+
+- html (not really a programming language)
+- python
+- css
+- js
+- 
+
+<div align="center">
+ 
   # other stuff
 
 </div>
@@ -75,4 +87,7 @@
   ive always dreamt of having a space on the 'net, thats why i love coding so much (my most used language is html iirc), i also love python becuase its pretty simple.
   <br>
   i have "runningman" as a name since i like him and his design is pretty cool + i didnt know what to put as a new name because "someonetdh" sucked
+  <br>
+  <br>
+  i also dont use github that much so expect me acting like a dumbass when on github lmaoo
 </details>
