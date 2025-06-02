@@ -35,9 +35,8 @@
 
 <a href="https://pikidiary.lol/@runningman" target="_blank">
     <img src="https://raw.githubusercontent.com/5quirre1/5quirre1/refs/heads/main/assets/README/icons/piki.png" alt="Piki Alien">
-</a>
+</a> <img src="ASSETS/github.svg" alt="Github" height="61"> 
 
-<img src="ASSETS/github.svg" alt="Github" height="61"> 
 (you are here)
 
 <div align="center">
@@ -98,4 +97,4 @@
 
 </div>
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCODE badge">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge">
