@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="ASSETS/github.svg" alt="github" height="61px">
+  <a href="#">
+    <img src="ASSETS/github.svg" alt="github" height="61px">
+  </a>
 </div>
 
 <div align="center">
@@ -21,3 +23,16 @@
       </tr>
     </tbody>
   </table>
+
+<div align="center">
+
+  ## my social media
+
+</div>
+
+<a href="https://pikidiary.lol/@runningman" target="__blank">
+    <img src="https://raw.githubusercontent.com/5quirre1/5quirre1/refs/heads/main/assets/README/icons/piki.png" alt="Piki Alien">
+</a>
+
+<img src="ASSETS/github.svg" alt="Github"> 
+(you are here)
