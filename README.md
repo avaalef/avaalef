@@ -10,7 +10,9 @@
   
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2600F7&width=435&lines=random+ass+coder;minor;likes+pizza" alt="Typing SVG"></a>
+<div align="center">
+  <img class="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;color=2600F7&amp;width=435&amp;lines=random+ass+coder;minor;likes+pizza" alt="Typing SVG">
+</div>
 
   <table>
     <tbody>
@@ -38,12 +40,24 @@
 <img src="ASSETS/github.svg" alt="Github" height="61"> 
 (you are here)
 
-# other stuff
+<div align="center">
+ 
+  # projects
+
+</div>
+
+- pikiscript
+- my site
+
+<div align="center">
+ 
+  # other stuff
+
+</div>
 
 <details>
   <summary>where to contact</summary>
   <a href="mailto:danypamby@gmail.com"><img src="ASSETS/Gmail.png" alt="gmail logo"></a>
+  <br>
   danypamby@gmail.com
 </details>
-
-<iframe src="https://nomaakip.github.io/pikicards/?username=runningman&bg=userBackground" style="border: 0px;"></iframe>
