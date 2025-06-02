@@ -10,6 +10,7 @@
   
 </div>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2600F7&width=435&lines=random+ass+coder;minor;likes+pizza" alt="Typing SVG"></a>
 
   <table>
     <tbody>
@@ -30,9 +31,9 @@
 
 </div>
 
-<a href="https://pikidiary.lol/@runningman" target="__blank">
+<a href="https://pikidiary.lol/@runningman" target="_blank">
     <img src="https://raw.githubusercontent.com/5quirre1/5quirre1/refs/heads/main/assets/README/icons/piki.png" alt="Piki Alien">
 </a>
 
-<img src="ASSETS/github.svg" alt="Github"> 
+<img src="ASSETS/github.svg" alt="Github" height="61"> 
 (you are here)
