@@ -42,7 +42,7 @@
 
 <div align="center">
  
-  # projects
+  ## projects
 
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="center">
  
-  # programming languages i use
+  ## programming languages i use
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
  
-  # other stuff
+  ## other stuff
 
 </div>
 
