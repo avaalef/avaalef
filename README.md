@@ -47,6 +47,7 @@
 
 - pikiscript
 - my site
+- lynx (os btw)
 
 <div align="center">
  
